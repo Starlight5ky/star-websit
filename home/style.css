@@ -12,7 +12,17 @@
     animation: fadeInScale 1s ease;
     text-align: center;
 }
-
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 100;
+    font-size: 16px;
+    color: #FAFAFA;
+}
+.dud{
+  color: #a57ae0;
+}
 .indexcontent img {
     width: 200px;
     margin-bottom: 20px;

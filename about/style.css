@@ -29,6 +29,7 @@ a :hover {
 .content a:hover{
     color: var(--accent)
 }
+
 @keyframes fadeInScale {
     from {
         opacity: 0;
