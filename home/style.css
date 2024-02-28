@@ -12,7 +12,7 @@
     animation: fadeInScale 1s ease;
     text-align: center;
 }
-.text{
+.text {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@
     font-size: 16px;
     color: #FAFAFA;
 }
-.dud{
+.dud {
   color: #a57ae0;
 }
 .indexcontent img {
