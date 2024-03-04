@@ -23,10 +23,14 @@
 .artwork-3 {
     height: auto;
     width: 40%;
+    margin-right: 45px;
+    border-radius: 10px;
 }
 .artwork-4{
     height: auto;
     width: 31%;
+    margin-left: 45px;
+    border-radius: 10px;
 }
 @keyframes fadeinScale {
     from {
