@@ -32,6 +32,11 @@
     margin-left: 45px;
     border-radius: 10px;
 }
+.artwork-5{
+    height: auto;
+    width: 45%;
+    border-radius: 10px;
+}
 @keyframes fadeinScale {
     from {
         opacity: 0;
