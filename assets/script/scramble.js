@@ -64,6 +64,8 @@ class TextScramble {
   const phrases = [
     'Commissions not open.. yet.',
     'why are you here anyway?',
+    'site not done, go home',
+    'go read the about section or smth',
     ]
   
   const el = document.querySelector('.text')
